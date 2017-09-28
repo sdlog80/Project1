@@ -1,7 +1,7 @@
 log file opened
 TRACE[xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
 TRACE[xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
-TRACE[xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "/usr/lib/tracker/tracker-extract"
+TRACE[xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: rnning command "/usr/lib/tracker/tracker-extract"
 TRACE[xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
 TRACE[xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
 TRACE[xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "/usr/lib/evolution/evolution-alarm-notify"
